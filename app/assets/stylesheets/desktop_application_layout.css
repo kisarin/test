@@ -1,0 +1,73 @@
+/* line 1, ../../app/assets/stylesheets/desktop_application_layout.css.scss */
+.centered {
+  text-align: center;
+}
+
+/*
+.navbar {
+	width: 75%;
+  margin: 0 auto;
+  background-color: #FFF;
+  border: solid 1px black;
+  margin-top: 20px;
+  margin-bottom: 50px;
+
+	$border: 5px;
+	border-top-width: $border;
+  border-right-width: $border;
+  border-bottom-width: $border;
+  border-left-width: $border;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  $border_color: 44;
+  border-top-color: rgba(#2C2C2C, 0.0976562);
+  border-right-color: rgba(44, 44, 44, 0.0976562);
+  border-bottom-color: rgba(44, 44, 44, 0.0976562);
+  border-left-color: rgba(44, 44, 44, 0.0976562);
+  
+  $radius: 18px;
+  line-height: 56px;
+  -webkit-border-radius: $radius;
+  -moz-border-radius: $radius;
+  border-radius: $radius;
+  border-top-left-radius: $radius $radius;
+  border-top-right-radius: $radius;
+  border-bottom-right-radius: $radius;
+  border-bottom-left-radius: $radius;
+  -webkit-background-clip: padding-box;
+  -moz-background-clip: padding;
+  background-clip: padding-box;
+}
+
+.navbar-inner {
+	$border: 5px;
+	border-top-width: $border;
+  border-right-width: $border;
+  border-bottom-width: $border;
+  border-left-width: $border;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  $border_color: 44;
+  border-top-color: rgba(#2C2C2C, 0.0976562);
+  border-right-color: rgba(44, 44, 44, 0.0976562);
+  border-bottom-color: rgba(44, 44, 44, 0.0976562);
+  border-left-color: rgba(44, 44, 44, 0.0976562);
+  
+  $radius: 18px;
+  line-height: 56px;
+  -webkit-border-radius: $radius;
+  -moz-border-radius: $radius;
+  border-radius: $radius;
+  border-top-left-radius: $radius $radius;
+  border-top-right-radius: $radius;
+  border-bottom-right-radius: $radius;
+  border-bottom-left-radius: $radius;
+  -webkit-background-clip: padding-box;
+  -moz-background-clip: padding;
+  background-clip: padding-box;
+}
+*/

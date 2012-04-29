@@ -1,4 +1,8 @@
 Visit::Application.routes.draw do
+  resources :cards
+  
+  root :to => 'cards#index'
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
